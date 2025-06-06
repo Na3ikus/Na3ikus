@@ -14,7 +14,7 @@ Not a pro, just someone who enjoys messing around with code and ~~AI~~ on GitHub
 - Python (scripts & programs)
 - HTML / CSS
 - MATLAB basics
-- Linux basics & Git tricks 😎
+- Linux & Git
 
 ---
 
