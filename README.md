@@ -9,7 +9,7 @@ Not a pro, just someone who enjoys messing around with code and ~~AI~~ on GitHub
 ---
 
 ### 🌱 Currently learning:
-- C# (.NET, WinForms)
+- C# (.NET, WinForms, OOP ?:D)
 - SQL / MySQL
 - Python (scripts & programs)
 - HTML / CSS
