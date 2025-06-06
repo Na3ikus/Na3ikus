@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Na3ikus+%F0%9F%91%8B;Just+a+guy+who+likes+coding;with ~~AI~~ :);Learning+and+experimenting;Enjoying+the+journey!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Na3ikus+%F0%9F%91%8B;Just+a+guy+who+likes+coding;with+AI+%3A%29;Learning+and+experimenting;Enjoying+the+journey!" alt="Typing SVG" />
 </div>
 
 ---
@@ -37,33 +37,8 @@ Not a pro, just someone who enjoys messing around with code and ~~AI~~ on GitHub
 
 </div>
 
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Na3ikus&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Na3ikus&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
 ### 📫 Reach me here:
 - Email: gucol2005@gmail.com
-
-<div align="center">
-  
----
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
----
-
-**Thanks for visiting! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-
-</div>
