@@ -4,7 +4,7 @@
 
 ---
 
-Not a pro, just someone who enjoys messing around with code and ~~AI~~ on GitHub :)
+Not a pro, just someone who enjoys messing around with code on GitHub :)
 
 ---
 
